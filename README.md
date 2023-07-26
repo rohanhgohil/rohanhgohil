@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Rohan Gohil**.
 - 👀 I’m interested in **Artificial Intelligence**, **Machine Learning** and **Deep Learning**.
 - 🤖 I’m currently learning *machine learning*.
-- 👬 I’m looking to collaborate on *machine learning* or *python* project.
+- 👬 I’m looking to collaborate on machine learning or python project.
 - 📧 You can reach me through email: rohanhgohil@gmail.com
 
 <!---
